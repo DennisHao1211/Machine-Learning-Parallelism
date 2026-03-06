@@ -1,0 +1,5 @@
+torch                # core PyTorch library
+torchvision          # datasets, transforms, model architectures for vision
+numpy                # numerical backend used by PyTorch and torchvision
+matplotlib           # graphs/charts
+
