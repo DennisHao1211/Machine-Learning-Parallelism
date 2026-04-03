@@ -1,4 +1,29 @@
-TODO
+Spring26 notes
+
+
+Todo:
+
+slideshow
+very brief intro into what a notebook is just in case
+pytorch/ml overview
+general overview of ddp, pipeline parallelism tensor parallelism
+in depth overview of ddp etc with like pytroch stuff
+good to go over like a general overview of the common gpus, like h100, a100 v100, Tesla T4 (what kaggle has) P100 (what kaggle has)
+intro notebook/documentation to set up kaggle, need to verify phone, connect to internet, select the dual gpu option, make sure people know to try and verify phones beforehand
+very good photos of like how to upload notebooks, edit them, verify phone, turn on internet, set up gpus etc
+
+NEED TO TURN IT INTO EXERCISES SOMEHOW
+fill in the blanks in cells idk
+maybe like a more interesting problem in there, balance the pipeline stages better cuz you can see the gpu usage, someone should test this
+
+Each model takes a couple minutes to train, we should reduce the epochs a bit, but also prepare something to maybe talk about while they are training
+
+
+
+
+
+
+===========
 
 create the job scripts
 create slideshow
