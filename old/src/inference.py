@@ -57,6 +57,7 @@ plt.imshow(np_img)
 plt.title(f"Predicted: {predicted_class}\nActual: {true_class}", fontsize=12)
 plt.axis("off")
 plt.tight_layout()
-plt.show()
+plt.savefig("inference_result.png")
+print("Image saved to inference_result.png")
 
 

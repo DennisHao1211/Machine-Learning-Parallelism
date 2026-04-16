@@ -11,6 +11,12 @@ venv/
 *.pt
 *.ckpt
 
+# Allow pre-trained weights in pretrained_weights/
+!pretrained_weights/*.pth
+
+# Exclude notebooks
+old/notebooks/
+
 # CIFAR-10 dataset (downloaded by torchvision at runtime)
 data/
 
