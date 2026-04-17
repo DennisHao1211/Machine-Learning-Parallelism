@@ -1,5 +1,5 @@
 # Running Notebooks on Kaggle
 
-## Setup
+## Setup Guide
 
-Coming soon.
+[Open the PDF guide](KaggleSetup.pdf)
